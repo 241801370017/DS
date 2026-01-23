@@ -10,3 +10,5 @@ output of obj node.java
 output of task 7.java 
 <img width="772" height="639" alt="image" src="https://github.com/user-attachments/assets/ff4701f0-da0b-4232-bc0c-e23bd3852faa" />
 
+output of node.java
+<img width="780" height="611" alt="image" src="https://github.com/user-attachments/assets/6608ce3f-84c8-4a7e-b1d9-174da0befd0e" />
