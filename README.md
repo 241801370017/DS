@@ -13,7 +13,7 @@ output of task 7.java
 output of node.java
 <img width="780" height="611" alt="image" src="https://github.com/user-attachments/assets/6608ce3f-84c8-4a7e-b1d9-174da0befd0e" />
 
-output of stack using array 
+output of Queue using array 
 <img width="558" height="568" alt="image" src="https://github.com/user-attachments/assets/86d64190-5f46-495d-9a4a-2adc51dbb62c" />
 <img width="756" height="575" alt="image" src="https://github.com/user-attachments/assets/f58ce5f9-c058-41d8-a8ed-b985c1b36970" />
 <img width="756" height="601" alt="image" src="https://github.com/user-attachments/assets/68599c0f-c52c-4eb1-8e09-a235882f773b" />
