@@ -21,3 +21,7 @@ output of Queue using array.java
 outputofQueueUsingLinkedList.java
 <img width="625" height="539" alt="image" src="https://github.com/user-attachments/assets/c92e8caa-d942-4a72-9c8c-12a01979533e" />
 <img width="708" height="416" alt="image" src="https://github.com/user-attachments/assets/e18e68bc-1888-4238-af98-11ddb7eafb27" />
+
+
+output of tree traversal order.java
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/355e1681-40d3-4795-a798-318bd562f91f" />
