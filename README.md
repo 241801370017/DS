@@ -25,3 +25,6 @@ outputofQueueUsingLinkedList.java
 
 output of tree traversal order.java
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/355e1681-40d3-4795-a798-318bd562f91f" />
+
+output of binarytreesearch.java
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/ce3aad7f-be74-4b12-b714-4cd14fe0f4ed" />
