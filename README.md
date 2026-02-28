@@ -28,3 +28,7 @@ output of tree traversal order.java
 
 output of binarytreesearch.java
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/ce3aad7f-be74-4b12-b714-4cd14fe0f4ed" />
+
+output of Insearch.java
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/daefc2b6-3751-4fdc-896c-448322462a3f" />
+
