@@ -34,3 +34,7 @@ output of Insertion.java
 
 output of Heapconcepts
 <img width="197" height="892" alt="image" src="https://github.com/user-attachments/assets/59cab1d1-f455-4153-8e56-fa6f6a6ee47c" />
+
+output of graphical representation.java
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/cea3adf9-a733-4235-8546-bf0a18858e9f" />
+
