@@ -40,3 +40,7 @@ output of graphical representation.java
 
 output of task19BFS.java
 ![WhatsApp Image 2026-03-11 at 4 12 50 PM](https://github.com/user-attachments/assets/6a6ff332-540c-4d49-bdea-07aab4d112ad)
+
+output of task20.java
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/4dce9c79-e60d-44fa-a8b6-1c89ddedffc3" />
+
